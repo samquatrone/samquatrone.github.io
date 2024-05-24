@@ -23,8 +23,8 @@ github_username:  samquatrone
 
 # Build settings
 theme: minima
-plugins:
-  - jekyll-feed
+# plugins:
+#   - add plugins here
 
 # Exclude from processing.
 # The following items will not be processed, by default.
